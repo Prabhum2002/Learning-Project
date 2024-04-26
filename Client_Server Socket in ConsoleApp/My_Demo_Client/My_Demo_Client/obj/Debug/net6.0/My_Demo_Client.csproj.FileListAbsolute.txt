@@ -1,0 +1,30 @@
+D:\Prabhu\My_Demo_Client\My_Demo_Client\bin\Debug\net6.0\My_Demo_Client.exe
+D:\Prabhu\My_Demo_Client\My_Demo_Client\bin\Debug\net6.0\My_Demo_Client.deps.json
+D:\Prabhu\My_Demo_Client\My_Demo_Client\bin\Debug\net6.0\My_Demo_Client.runtimeconfig.json
+D:\Prabhu\My_Demo_Client\My_Demo_Client\bin\Debug\net6.0\My_Demo_Client.dll
+D:\Prabhu\My_Demo_Client\My_Demo_Client\bin\Debug\net6.0\My_Demo_Client.pdb
+D:\Prabhu\My_Demo_Client\My_Demo_Client\obj\Debug\net6.0\My_Demo_Client.csproj.AssemblyReference.cache
+D:\Prabhu\My_Demo_Client\My_Demo_Client\obj\Debug\net6.0\My_Demo_Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prabhu\My_Demo_Client\My_Demo_Client\obj\Debug\net6.0\My_Demo_Client.AssemblyInfoInputs.cache
+D:\Prabhu\My_Demo_Client\My_Demo_Client\obj\Debug\net6.0\My_Demo_Client.AssemblyInfo.cs
+D:\Prabhu\My_Demo_Client\My_Demo_Client\obj\Debug\net6.0\My_Demo_Client.csproj.CoreCompileInputs.cache
+D:\Prabhu\My_Demo_Client\My_Demo_Client\obj\Debug\net6.0\My_Demo_Client.dll
+D:\Prabhu\My_Demo_Client\My_Demo_Client\obj\Debug\net6.0\refint\My_Demo_Client.dll
+D:\Prabhu\My_Demo_Client\My_Demo_Client\obj\Debug\net6.0\My_Demo_Client.pdb
+D:\Prabhu\My_Demo_Client\My_Demo_Client\obj\Debug\net6.0\My_Demo_Client.genruntimeconfig.cache
+D:\Prabhu\My_Demo_Client\My_Demo_Client\obj\Debug\net6.0\ref\My_Demo_Client.dll
+D:\Prabhu\Client_Server Socket in ConsoleApp\My_Demo_Client\My_Demo_Client\bin\Debug\net6.0\My_Demo_Client.exe
+D:\Prabhu\Client_Server Socket in ConsoleApp\My_Demo_Client\My_Demo_Client\bin\Debug\net6.0\My_Demo_Client.deps.json
+D:\Prabhu\Client_Server Socket in ConsoleApp\My_Demo_Client\My_Demo_Client\bin\Debug\net6.0\My_Demo_Client.runtimeconfig.json
+D:\Prabhu\Client_Server Socket in ConsoleApp\My_Demo_Client\My_Demo_Client\bin\Debug\net6.0\My_Demo_Client.dll
+D:\Prabhu\Client_Server Socket in ConsoleApp\My_Demo_Client\My_Demo_Client\bin\Debug\net6.0\My_Demo_Client.pdb
+D:\Prabhu\Client_Server Socket in ConsoleApp\My_Demo_Client\My_Demo_Client\obj\Debug\net6.0\My_Demo_Client.csproj.AssemblyReference.cache
+D:\Prabhu\Client_Server Socket in ConsoleApp\My_Demo_Client\My_Demo_Client\obj\Debug\net6.0\My_Demo_Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prabhu\Client_Server Socket in ConsoleApp\My_Demo_Client\My_Demo_Client\obj\Debug\net6.0\My_Demo_Client.AssemblyInfoInputs.cache
+D:\Prabhu\Client_Server Socket in ConsoleApp\My_Demo_Client\My_Demo_Client\obj\Debug\net6.0\My_Demo_Client.AssemblyInfo.cs
+D:\Prabhu\Client_Server Socket in ConsoleApp\My_Demo_Client\My_Demo_Client\obj\Debug\net6.0\My_Demo_Client.csproj.CoreCompileInputs.cache
+D:\Prabhu\Client_Server Socket in ConsoleApp\My_Demo_Client\My_Demo_Client\obj\Debug\net6.0\My_Demo_Client.dll
+D:\Prabhu\Client_Server Socket in ConsoleApp\My_Demo_Client\My_Demo_Client\obj\Debug\net6.0\refint\My_Demo_Client.dll
+D:\Prabhu\Client_Server Socket in ConsoleApp\My_Demo_Client\My_Demo_Client\obj\Debug\net6.0\My_Demo_Client.pdb
+D:\Prabhu\Client_Server Socket in ConsoleApp\My_Demo_Client\My_Demo_Client\obj\Debug\net6.0\My_Demo_Client.genruntimeconfig.cache
+D:\Prabhu\Client_Server Socket in ConsoleApp\My_Demo_Client\My_Demo_Client\obj\Debug\net6.0\ref\My_Demo_Client.dll
